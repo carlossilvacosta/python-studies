@@ -1,0 +1,50 @@
+# 2st Stage - Selection Process - English Test
+
+Choose ONE of the topics below and write at least 150 words. Please, give reasons for your answer and include any relevant examples 
+from your own knowledge or experience.
+
+[A] Unlock your car with your phone. Open your front door with your phone. Order food with your phone. We are walking towards a future in which 
+we combine many (if not all) of our daily activities on smartphones.
+How far can we go depending on our phone for simple tasks?
+Is it worth to combine all of it on your phone?
+
+[B] With the rise of social media and internet widely available for users, the need of providing and consuming information grows almost as 
+quickly, but not always the provided information is real. Discuss about fake news, how it can be prevented and why it is important to do so.
+
+[C] You are going to another country to study. You would like to do a part-time job while you are studying, so you want to ask a friend 
+who lives there for some help. In your letter:
+- give details of your study plans
+- explain why you want to get a part-time job
+- suggest how your friend could help you find a job
+
+### ANSWER
+
+[A] Relying on our phones for everyday tasks like unlocking cars, opening doors, and ordering food is becoming more common. But how much 
+should we depend on our phones for everything? Well, it depends. Using our phones for simple tasks can be convenient and save time. For example, 
+if you're carrying groceries and your hands are full, it's handy to unlock your car with your phone. However, putting all our activities on 
+one device might not be the best idea. Phones can get lost, stolen, or run out of battery. Plus, if something goes wrong with your phone, 
+you could be stuck. So, it's good to balance. Use your phone for tasks that make sense, but don't rely on it for everything. Having backup 
+options is smart too.
+
+[B] Fake news is like gossip on steroids. It spreads fast and can cause a lot of harm. It's important to stop fake news because it messes 
+with our understanding of the world. Imagine if you believed a fake story about a medicine being dangerous. You might avoid it when you really 
+need it! Preventing fake news is tricky but not impossible. One way is to check multiple sources before believing a story. Also, be careful 
+about sharing news before you know it's true. Social media platforms can also do more to stop fake news from spreading. They could verify 
+information before it's shared widely. It's everyone's job to stop fake news, so we can all trust the information we see.
+
+[C] Hey [Friend's Name],
+
+I hope this letter finds you well. I'm excited to share that I'm planning to study abroad in your country! I've been accepted into a 
+program at [Name of University] to study [Your Field of Study]. I can't wait to immerse myself in a new culture and expand my knowledge.
+
+While I'm there, I'm hoping to find a part-time job to help with living expenses and gain some work experience. Having a part-time job 
+will not only support me financially but also allow me to interact more with locals and improve my language skills.
+
+I was wondering if you could help me in my job search. Since you're familiar with the area, you might know some places that are hiring 
+students or have connections that could be useful. Any advice or assistance you can provide would be greatly appreciated!
+
+Looking forward to catching up soon.
+
+Best regards,
+[Your Name]
+
